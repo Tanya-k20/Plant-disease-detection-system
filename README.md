@@ -2,7 +2,7 @@
 ### AI-Powered Smart Agriculture Assistant
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI-Powered-Agriculture-green?style=for-the-badge" />
+
   <img src="https://img.shields.io/badge/React-Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-AI%2FML-3776AB?style=for-the-badge&logo=python&logoColor=white" />
