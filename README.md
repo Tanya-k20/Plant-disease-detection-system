@@ -17,22 +17,28 @@
 
 ## 📚 Research Publication
 
-> 🏆 **This project has been published in a Springer conference.**
+> 🏆 **This project has been published as a chapter in a Springer conference publication.**
 
-| Publication Detail | Information |
-|---|---|
-| **Title** | Farming Advisory – AI-Based Smart Agriculture Assistant |
-| **Publisher** | Springer |
-| **Conference** | `[Add Conference Name]` |
-| **Publication Year** | `[Add Year]` |
-| **DOI** | `[Add DOI]` |
-| **Published Paper** | `[Add Springer Link]` |
+| Publication Detail  | Information                                                                       |
+| ------------------- | --------------------------------------------------------------------------------- |
+| **Title**           | Farming Advisory – AI-Based Smart Agriculture Assistant                           |
+| **Publisher**       | Springer                                                                          |
+| **Conference**      | Published in Springer Conference Proceedings                                      |
+| **DOI**             | [10.1007/978-3-032-28591-1_3](https://doi.org/10.1007/978-3-032-28591-1_3)        |
+| **Published Paper** | [View on Springer](https://link.springer.com/chapter/10.1007/978-3-032-28591-1_3) |
 
-### Research Contribution
+### 🔬 Research Contribution
 
-The research presents an AI-assisted smart agriculture platform that brings together plant disease detection, weather information, agricultural assistance, and market-related insights to support informed farming decisions.
+The research presents an **AI-assisted smart agriculture platform** designed to support farmers in making informed and data-driven decisions. The system integrates **plant disease detection, weather information, agricultural assistance, and market-related insights** into a unified platform.
 
----
+The project demonstrates how **Artificial Intelligence and digital technologies can be applied to agriculture** to improve accessibility to agricultural information, assist with crop-related decision-making, and provide farmers with timely and actionable insights.
+
+### 📖 Publication
+
+**Springer DOI:** `10.1007/978-3-032-28591-1_3`
+
+**Paper:** [Farming Advisory – AI-Based Smart Agriculture Assistant](https://link.springer.com/chapter/10.1007/978-3-032-28591-1_3)
+
 
 # 📌 Table of Contents
 
@@ -817,47 +823,8 @@ Then create a Pull Request.
 
 ---
 
-# 📚 Research Publication
 
-## Springer Conference Publication
 
-This project was developed as a research-oriented solution in the field of **Artificial Intelligence and Smart Agriculture** and has been published as part of a Springer conference publication.
-
-### Publication Information
-
-| Details | Information |
-|---|---|
-| **Project Title** | Farming Advisory – AI-Based Smart Agriculture Assistant |
-| **Publisher** | Springer Nature |
-| **Publication Type** | Conference Publication |
-| **DOI** | 10.1007/978-3-032-28591-1_3 |
-| **Official DOI** | https://doi.org/10.1007/978-3-032-28591-1_3 |
-
-### 🔗 Published Paper
-
-**DOI:** https://doi.org/10.1007/978-3-032-28591-1_3
-
-The publication presents the research and development of an AI-enabled agriculture assistance system integrating intelligent agricultural services to support informed decision-making.
-
-### Research Areas
-
-- Artificial Intelligence
-- Machine Learning
-- Smart Agriculture
-- Plant Disease Detection
-- Agricultural Decision Support Systems
-- Digital Agriculture
-- Intelligent Farming Systems
-
-### Academic Contribution
-
-The project demonstrates the application of modern AI and software technologies to address practical challenges in agriculture. The system integrates multiple agricultural assistance capabilities into a unified platform, with a focus on accessibility, intelligent decision support, and real-world usability.
-
----
-
-## 📖 Citation
-
-```text
 Tanya K. et al.,
 "Farming Advisory – AI-Based Smart Agriculture Assistant,"
 Springer Conference Publication.
